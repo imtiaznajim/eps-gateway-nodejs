@@ -609,12 +609,10 @@ This is an unofficial SDK. The author is not affiliated with EPS (Easy Payment S
 ## Acknowledgments
 
 - Thanks to [EPS (Easy Payment System)](https://www.eps.com.bd) for providing the payment gateway service
-- Inspired by [sslcommerz](https://github.com/siamahnaf/sslcommerz) by [@siamahnaf](https://github.com/siamahnaf)
-- Built for the Bangladesh developer community
+- Built with ❤️ for the Bangladesh developer community
 
 ## Related Projects
 
-- [sslcommerz](https://github.com/siamahnaf/sslcommerz) - SSLCommerz Node.js SDK
 - [bkash-payment](https://www.npmjs.com/package/bkash-payment) - bKash Payment Gateway SDK
 
 ---
