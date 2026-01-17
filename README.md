@@ -594,12 +594,6 @@ MIT License - see the [LICENSE](LICENSE) file for details
 
 This is an unofficial SDK. The author is not affiliated with EPS (Easy Payment System). Use at your own risk.
 
-## Author
-
-**Imtiaz Najim**
-- GitHub: [@imtiaznajim](https://github.com/imtiaznajim)
-- Email: imtiaznajim@gmail.com
-
 ## Support
 
 - 🐛 **Issues:** [GitHub Issues](https://github.com/imtiaznajim/eps-gateway-nodejs/issues)
@@ -611,10 +605,6 @@ This is an unofficial SDK. The author is not affiliated with EPS (Easy Payment S
 - Thanks to [EPS (Easy Payment System)](https://www.eps.com.bd) for providing the payment gateway service
 - Built with ❤️ for the Bangladesh developer community
 
-## Related Projects
 
-- [bkash-payment](https://www.npmjs.com/package/bkash-payment) - bKash Payment Gateway SDK
-
----
 
 Made with ❤️ for the Bangladesh developer community
